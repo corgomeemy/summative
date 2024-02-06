@@ -1,0 +1,455 @@
+#volume {
+    background-color: beige;
+}
+
+
+#shipo {
+    text-align: center;
+    margin-left: 55px;
+}
+
+#pra {
+    text-align: center;
+    color: orange;
+    background-color: darkslateblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 33px;
+    display: flex;
+    align-items: center;
+    padding-left: 545px;
+}
+
+#vase {
+    text-align: right;
+}
+
+#chaml {
+
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 33px;
+
+
+
+}
+
+#egypt {
+    background-color: darkslateblue;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 300px;
+}
+
+#poit {
+    text-align: right;
+    background-color: darkslateblue;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+#fat {
+    text-align: right;
+    background-color: darkslateblue;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+
+}
+
+.logi {
+    width:75spx;
+    height: 75px;
+    
+    
+}
+
+.jeff {
+
+    width: 350px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 50px;
+    transition: transform 0.3s;
+ 
+
+}
+
+.jeff:hover {
+    transform: scale(1.2);
+}
+
+
+.tab {
+    width: 320px;
+    height: 320px;
+}
+
+.jfi {
+    display: -webkit-flex;
+    display: flex;
+    height: 420px;
+    width: 1423px;
+    background-color: burlywood;
+   
+
+  
+}
+
+.organ {
+    display: flex;
+    align-items: stretch;
+    margin-top: 15px;
+}
+
+.yes {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+   
+    text-align: center;
+
+}
+
+.butt {
+    width: 93px;
+    height: 53px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: darkslateblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+
+}
+
+#pho {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    font-size: 73px;
+    
+}
+#pha {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    font-size: 33px;
+    
+}
+#phu {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    font-size: 23px;
+    
+}
+
+#arlo {
+    background-color: darkslateblue;
+    color: beige;
+    height: 1px;
+}
+
+#game {
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#oej {
+    background-color: aliceblue;
+    width: 1175px;
+}
+
+#boi {
+    font-size: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+
+}
+
+#hello {
+    width:350px;
+    height:350px
+}
+
+.ullo  {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+}
+
+#sri {
+    margin-left: 375px;
+    margin-top: 175px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    font-size: 33px;
+}
+#nei {
+    margin-left: 367px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    font-size: 33px;
+
+}
+#arh {
+    margin-left: 371px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    font-size: 33px;
+}
+
+#espanol {
+    float: left;
+
+}
+
+#xjyf {
+    margin-top: 25px;
+    margin-right: 2000px;
+}
+
+#bluey {
+    color: #87CEEB;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#flamne {
+    background-color: darkslateblue;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#samosa {
+    background-color: beige;
+}
+
+#dg {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 63px;
+    color: orange;
+    padding-left: 30px;
+    width: 450px;
+}
+
+#uni {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 63px;
+    color: orange;
+    text-align: center;
+    margin-bottom: 3px;
+}
+
+#raone {
+    text-align: center;
+    background-color: orange;
+    color: black;
+    font-size: 23px;
+    margin-left: 623px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 3px;
+}
+
+#reg {
+    background-color: orange;
+    margin-top: 50px;
+
+}
+
+#ytdf {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#geeone {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#nei {
+    margin-top: 75px;
+    margin-left: 100px;
+    padding-left: 10px;
+}
+
+#gret {
+    width:150px;
+    height: 150px;
+}
+
+#grete {
+    width: 150px;
+    height: 150px;
+    padding-left: 0px;
+}
+
+#neli {
+    margin-top: 60px;
+    margin-left: 100px;
+    padding-left: 10px;
+    font-size: 33px;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#balisong {
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+}
+
+#twat {
+    background-color: orange;
+    color:beige;
+    height: 2px;
+    font-size: ;
+}
+
+#gar {
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+#termite {
+    background-color: darkslateblue;
+    color: orange;
+    width:700px;
+    text-align: center;
+    margin-left: 360px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 7px;
+}
+
+#trmite {
+    text-align: center;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 7px;
+    font-size: 23px;
+}
+
+#thud {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 23px;
+    
+}
+
+.pod {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 23px;
+}
+
+
+#tasmania {
+    background-color: orange;
+    font-size: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 175px;
+}
+
+
+#pompom {
+    background-color: darkslateblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+}
+
+#have {
+    background-color: beige;
+}
+
+
+#mouse {
+    width: 15px;
+}
+
+
+
+#free {
+    background-color: beige;
+}
+
+
+#claswiz {
+    width: 500px;
+    height: 500px;
+    margin-left: 470px;
+}
+
+#holiday {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    background-color: darkslateblue;
+}
+
+#buey {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #87CEEB;
+    
+}
+
+#guy {
+    color: orange;
+    font-size: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#tacos {
+    background-color: darkslateblue;
+    color: orange;
+
+}
+
+
+
+#mose {
+    width:300px;
+}
+
+#mosse {
+    margin-left: 10px;
+    height: 272px;
+    width: 300px;
+
+
+}
+
+#mousee {
+    height: 272px;
+    width: 300px;
+    margin-left: 10px;
+}
+
